@@ -1,0 +1,1 @@
+An app which can be used to create, update or delete notes. Used feature of ROOM database to store and update data locally. Implemented MVVM architecture for code readability for maintainability and scalability.
